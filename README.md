@@ -19,7 +19,7 @@ Then open http://localhost:3000.
 ## Tasks
 
 Complete the tasks in order. Each placeholder is marked with `// * Task N: Starts here`
-… `// * Task N: Ends here` comments. The full task descriptions are in the slides.
+… `// * Task N: Ends here` comments. The full task descriptions are in the respective slides.
 
 | Task | Goal | File | Marker |
 | ---- | ---- | ---- | ------ |
