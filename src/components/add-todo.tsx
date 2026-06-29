@@ -42,6 +42,10 @@ export function AddTodo(props: AddTodoProps) {
 
           
           // * Task 7: Ends here
+          // * Bug fixing
+
+          
+          // * Bug fixing ends here
         />
       </div>
       <Button

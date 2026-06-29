@@ -30,6 +30,7 @@ Complete the tasks in order. Each placeholder is marked with `// * Task N: Start
 | 5 | `handleAddTodo` function | `src/components/todo-app.tsx` | `Task 5` |
 | 6 | Render `<AddTodo>` + state & click handler | `src/components/todo-app.tsx` & `src/components/add-todo.tsx` | `Task 6` |
 | 7 | `handleChange` for the input field | `src/components/add-todo.tsx` | `Task 7` |
+| * | Bonus: Bug fixing input field | `src/components/add-todo.tsx` | `Bug fixing` |
 
 > Component map (parent → children): `TodoApp` (App) renders `AddTodo` and
 > `TodoList` (Todo). `Header` and `Footer` are already complete.
